@@ -5,4 +5,5 @@
  功能：支持点击编辑和长按鼠标拖动变化；
  func:An input box that supports both input editing and mouse sliding control;
  
- 002 
+ 002 NoteSlider 标签滑动条 
+ 功能：带显示的滑动游标； func:Slide cursor with display label
